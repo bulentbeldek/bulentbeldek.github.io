@@ -2,4 +2,8 @@ body{
     margin: 0;
     text-align: center;
     background-color: azure;
+    img {
+        max-width:50%;
+        height: auto;
+        }
 }
